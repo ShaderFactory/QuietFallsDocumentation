@@ -1,8 +1,8 @@
 {
 	"nodes":[
-		{"id":"889f4676b1ce8956","x":-2200,"y":-450,"width":740,"height":150,"type":"file","file":"Scripting API/GameManaging/GameManager.cs/3 - Methods/GameManager.OnGameStart.md"},
+		{"id":"889f4676b1ce8956","x":-2200,"y":-450,"width":740,"height":150,"type":"file","file":"02 - Scripting API/GameManaging/GameManager.cs/3 - Methods/GameManager.OnGameStart.md"},
 		{"id":"2d3c7c131a8577c2","type":"text","text":"[RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.BeforeSceneLoad)","x":-2150,"y":-660,"width":640,"height":50,"color":"3"},
-		{"id":"a877e4aec9be5424","x":-1380,"y":-435,"width":740,"height":120,"type":"file","file":"Scripting API/GameManaging/GameManager.cs/3 - Methods/GameManager.OnEverySceneLoad.md"},
+		{"id":"a877e4aec9be5424","x":-1380,"y":-435,"width":740,"height":120,"type":"file","file":"02 - Scripting API/GameManaging/GameManager.cs/3 - Methods/GameManager.OnEverySceneLoad.md"},
 		{"id":"7237eb188b4affa6","x":-1955,"y":-180,"width":250,"height":60,"color":"6","type":"text","text":"All the GameManagers get spawned!"}
 	],
 	"edges":[

@@ -4,7 +4,6 @@ tags:
 ---
 Here is an index of all relevant links to subjects by category.
 
-
 ---
 ### Custom Shaders
 
