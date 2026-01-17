@@ -21,7 +21,7 @@ Even though this struggle with overdependency was what made me realize there was
 
 When you don't isolate their functionality, things need to be build in order. But when you are making isolated—self-contained systems, you can pause working in parts you're tired or looking at or bored by , to go ahead to work on parts that you are excited about. Maintaining the enjoyment of making the game, which might be the most important thing for making sure the game finishes.
 
-## Systems be unaware of their surroundings
+## Systems must be unaware of their surroundings
 Systems don't need to care about the game flow, what happened before or what is going to happen after they do something. That's too much.
 
 The problem of over dependence is not only the... [writing in progress]
