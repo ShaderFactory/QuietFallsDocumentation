@@ -13,22 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documentation/03 - Assets/Asset Creation Cloud Projects/Quiet Falls Terrain Texture Pack.md",
-                "mode": "source",
+                "file": "Documentation/01 - Articles/How to make Custom Packages for Unity..md",
+                "mode": "preview",
                 "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Quiet Falls Terrain Texture Pack"
+              "title": "How to make Custom Packages for Unity."
             }
           }
         ]
@@ -182,16 +173,18 @@
   },
   "active": "99a5d3308223070e",
   "lastOpenFiles": [
-    "Documentation/04 - Notes/KNOWN ISSUES.md",
+    "Documentation/03 - Assets/Unity Packages/Cozy Nodes.md",
     "Index (Start Here).md",
     "Documentation/03 - Assets/Unity Packages/Cozy Shaders.md",
-    "Documentation/03 - Assets/Unity Packages/Modular State Machine.md",
+    "Shaders/Custom Shaders/QF_MasterShader/1 - Shader Graph/QF_MasterShader (Shader Documentation).md",
     "Documentation/03 - Assets/Unity Packages/Controller System.md",
-    "Documentation/03 - Assets/Unity Packages/Cozy Nodes.md",
-    "Documentation/03 - Assets/Asset Creation Cloud Projects/Quiet Falls Terrain Texture Pack.md",
     "Documentation/01 - Articles/Game Initialization Procedure.md",
     "Documentation/01 - Articles/How to make Custom Packages for Unity..md",
     "Documentation/01 - Articles/Make Systems, not Games.md",
+    "Documentation/01 - Articles/Philosophical approach to the game architecture.md",
+    "Documentation/03 - Assets/Asset Creation Cloud Projects/Quiet Falls Terrain Texture Pack.md",
+    "Documentation/04 - Notes/KNOWN ISSUES.md",
+    "Documentation/03 - Assets/Unity Packages/Modular State Machine.md",
     "Media/cozy-shaders_banner.gif",
     "Media/Narrator-MainCharacter_InGameCapture.jpg",
     "Media/QF_MasterShader_PinkFactor_Property.jpg",
@@ -205,10 +198,8 @@
     "README.md",
     "Shaders/Custom Shaders/QF_MasterShader/2 - Properties/Pink Factor.md",
     "2026-01-10.md",
-    "Shaders/Custom Shaders/QF_MasterShader/1 - Shader Graph/QF_MasterShader (Shader Documentation).md",
     "Untitled.base",
     "Untitled.canvas",
-    "Documentation/01 - Articles/Philosophical approach to the game architecture.md",
     "Trash/02 - Scripting API/GameManaging/GameManagerBase.cs/1 - Class/GameManagerBase (Class Documentation).md",
     "Trash/02 - Scripting API/GameManaging/GameManagerBase.cs/2 - Properties/GameManagerBase.isInitialized.md",
     "Trash/02 - Scripting API/GameManaging/GameManagerBase.cs/4 - Code/GameManagerBase.cs (Code).md",
